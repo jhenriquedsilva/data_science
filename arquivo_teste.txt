@@ -1,0 +1,5 @@
+Linha escrita com Python
+Outra linha escrita com Python
+Terceita linha escrita com Python
+Terceita linha escrita com Python
+Terceita linha escrita com Python
